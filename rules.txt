@@ -1,0 +1,5 @@
+TCP_PORT=4444 | Possible Reverse Shell | High
+ICMP_COUNT>100 | Possible ICMP Flood | Medium
+DST_PORT=22 | SSH Connection Detected | Low
+DST_PORT=3389 | RDP Connection Detected | Medium
+DST_IP=192.168.1.10 | Sensitive IP Accessed | High
